@@ -22,7 +22,8 @@ dusdanig overgebruikt. en wil ik enkele voorbeelden bekijken en uitwerken.
 Wat is het verschil tussen HTML5 en CSS3 Animaties
 __________________________________________________
 
-
+"Sinds de komst van de iPad is HTML5 (scripttaal) met CSS3 (stijlfiles) de norm geworden voor o.a. interactieve animaties zoals navigatie (menu's) en foto-toepassing. Maar ook andere animatie, zoals vloeiende of fadende foto's kan uw website net die schoonheid geven die overtuigender is voor uw potentiële klanten dan uw concurrenten dat zijn. HTML5 (met vloeiende beeldmiddelen en interactief op elk platform) kan -indien juist gebruikt- een website allure geven; is niet alleen mooi met zachte overgangen en animaties, zoals met de menu's, maar ook functioneel. 
+HTML5 met CSS3: voor een website met animatie die op een iPad werkt, en die zeer zeker met de juiste SEO (zie artikel hierboven) ook goed met Google gevonden wordt!" - http://www.ixelink.nl/werkwijze-van-ixelink-webdesign-in-arnhem/89-html5-css3
 
 Waar en hoe gebruik je wat?
 ___________________________
@@ -32,6 +33,14 @@ ______________________
 
 Dieper op CSS3.
 _______________
+Portfolio maken met css3 animaties.
+Integreren animaties examen opdracht Web Development.
+
+links:
+
+http://jsfiddle.net/ssenkus/v1yogk3w/
+http://webdesign.about.com/od/css3tutorials/a/fade-in-and-out-with-css3.htm
+http://bavotasan.com/2011/a-simple-fade-with-css3/
 
 Dieper op HTML5.
 ________________
@@ -39,5 +48,8 @@ ________________
 Storytelling met animaties.
 ___________________________
 
+SUCCES principe.
+
 Alternatieven?
 ______________
+Er zijn alternatieven voor CSS3 en HTML5 Animaties. Een voorbeeld is Javascript, maar, deze wordt wel gebruikt bij sommige HTML5 Animaties. dus deze kan je niet meerekennen. vervolgens is er nog Flash. Deze word niet meer gebruikt door enkelen redennen. deze ga ik hier niet opnoemen omdat dit niet echt tot het specialisatie gedeelde behoren in mijn ogen. Vervolgens zijn er ook heel veel verschillende front-end frameworks. maar deze werken allemaal op de nieuwe HTML5 en CSS3 animaties.
